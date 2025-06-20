@@ -1,0 +1,1 @@
+train model, with imagenet dataset like vgg19, vgg16, resnet50, and put them in this folder to have default models
