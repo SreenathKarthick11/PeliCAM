@@ -1,0 +1,10 @@
+numpy                     2.3.0
+matplotlib                3.10.3
+PyQt5                     5.15.11
+torch                     2.7.1
+grad-cam                  1.5.5
+lime                      0.2.0.1
+opencv-python             4.11.0.86
+scipy                     1.15.3
+pyinstaller               6.14.1
+
