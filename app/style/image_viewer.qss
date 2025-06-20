@@ -1,0 +1,46 @@
+QTabBar::tab {
+    background: rgba(90,180,170,150);
+    color: white;
+    width:120px;
+    padding: 10px;
+    font-size:12px;
+    margin-right:2px;
+    border-radius:10px;
+}
+
+/* Style for the selected (active) tab */
+QTabBar::tab:selected {
+    background: #f39c12;
+    color: black;
+    font-weight: bold;
+}
+
+/* Hover effect */
+QTabBar::tab:hover {
+    background: rgba(90,180,170,250);
+}
+
+/* Tab close button */
+QTabBar::close-button {
+    margin-left: 8px;
+}    
+                                    
+QTabWidget::pane {
+    background-color: rgba(20,20,20,100);
+    border-radius:20px;
+}
+QLabel {
+    background-color: rgba(70,70,70,200);
+    border-radius:30px;
+}
+QLabel#scoreLabel {
+    background-color:rgba(240, 240, 240, 0.75);
+    color: #333333;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    padding: 4px 10px;
+    font-size: 18px;
+    max-height:50px;
+    font-weight: bold;
+    font-family: 'Segoe UI', sans-serif;
+}

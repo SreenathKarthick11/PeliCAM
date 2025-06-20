@@ -1,0 +1,29 @@
+LimeWindow{
+   background-color:rgba(20,20,20,200)
+}
+QCheckBox{
+    font-size:18px;
+    color:#f5f5f5;
+    background-color:rgba(20,20,20,200);
+} 
+QCheckBox::indicator {
+    width: 15px;
+    height: 15px;
+    border-radius: 3px;
+    border: 2px solid #aaa;
+}
+QCheckBox::indicator:checked {
+    background-color: #f39c12;
+}
+QLineEdit{
+    font-size:18px;
+    color:#000000;
+    max-width:50px;
+    min-height:20px;
+    border-radius:10px;
+}
+QLabel {
+    font-size: 18px;
+    color: #f5f5f5;
+    background-color:rgba(20,20,20,200);       
+}

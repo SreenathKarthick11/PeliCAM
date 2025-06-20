@@ -1,0 +1,74 @@
+QPushButton {
+    background-color: rgba(90,180,170,255);
+    color: white;
+    font-weight: bold;
+    font-size:16px;
+    border-radius: 10px;
+    padding: 5px;
+}
+QPushButton:hover{
+    background-color: rgba(90,180,170,150);
+}
+QPushButton:pressed {
+    background-color: #f39c12;
+    padding-top: 12px;
+}
+QLabel {
+    font-size: 18px;
+    color: #f5f5f5;
+    background-color:rgba(20,20,20,200);
+}
+QComboBox{
+    font-size:18px;
+    color: #f5f5f5;
+    background-color:rgba(90,180,170,150);
+    padding:5px;
+    border-radius:10px;                                   
+}
+QComboBox::drop-down {
+    width: 30px;
+}
+QComboBox QAbstractItemView {
+    background-color: #1e272e;       /* dropdown list background */
+    color: white;                    /* text color */
+    selection-background-color: #f39c12;  /* orange highlight */
+    selection-color: black;          /* text color when selected */
+}
+QCheckBox{
+    font-size:18px;
+    color:#f5f5f5;
+    background-color:rgba(20,20,20,200);
+} 
+QCheckBox::indicator {
+    width: 15px;
+    height: 15px;
+    border-radius: 3px;
+    border: 2px solid #aaa;
+}
+QCheckBox::indicator:checked {
+    background-color: #f39c12;
+}
+QLineEdit{
+    font-size:18px;
+    color:#000000;
+}
+Sidebar{
+    background-color:rgba(20,20,20,200);
+    padding:10px;
+    border-radius:20px;
+}
+QProgressBar{
+    border: 2px solid rgb(16, 131, 106);
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+    color: #f5f5f5;
+    height: 20px;
+    background-color:rgb(0, 0, 0);
+}
+QProgressBar::chunk {
+    background-color:rgba(243, 157, 18, 0.89);
+    border-radius: 5px;
+    width: 5px;
+    margin: 1px;
+}

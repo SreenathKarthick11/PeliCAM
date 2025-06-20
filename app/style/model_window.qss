@@ -1,0 +1,29 @@
+ModelWindow{
+   background-color:rgba(20,20,20,0.50)
+}
+QLineEdit{
+    font-size:18px;
+    color:#000000;
+    min-height:20px;
+    border-radius:10px;
+}
+QLabel {
+    font-size: 18px;
+    color: #f5f5f5;
+    background-color:rgba(20,20,20,200);       
+}
+QPushButton {
+    background-color: rgba(90,180,170,255);
+    color: white;
+    font-weight: bold;
+    font-size:16px;
+    border-radius: 10px;
+    padding: 5px;
+}
+QPushButton:hover{
+    background-color: rgba(90,180,170,150);
+}
+QPushButton:pressed {
+    background-color: #f39c12;
+    padding-top: 12px;
+}
