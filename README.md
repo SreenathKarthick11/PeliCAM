@@ -1,4 +1,4 @@
-# 📸 PeliCAM
+# PeliCAM <img src="pelicam_logo.png" align="left" height="250">
 
 [![View PDF Manual](https://img.shields.io/badge/📄_PDF-Manual-blue?style=flat-square)](docs/PeliCAM.pdf)
 [![View XAI Report](https://img.shields.io/badge/📑_XAI_Report-orange?style=flat-square)](docs/XAI_Report.pdf)
@@ -7,6 +7,7 @@
 > **PeliCAM** – A deep learning model explanation toolkit built with PyQt  
 > Created by **Murali** and **Sreenath**
 
+<br><br>
 ---
 
 ## 🎯 What is PeliCAM?
