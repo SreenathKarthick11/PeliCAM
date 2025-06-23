@@ -10,7 +10,7 @@
 <br><br>
 ---
 
-## 🎯 What is PeliCAM?
+## What is PeliCAM?
 
 **PeliCAM** is a desktop application for **visualizing model interpretability**.  
 It supports techniques like:
@@ -22,19 +22,19 @@ It’s built to help users understand and debug deep learning predictions—visu
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 **Image Loader & Custom PyTorch Model Support**
-- 🧠 **Layer-wise CAM Selection** (Grad-CAM, Layer-CAM)
-- 🟨 **Manual & Semi-auto Bounding Box Tool**
-- 🌈 **LIME Visualizations** (positive/negative features)
-- 💾 **Save & Export Visual Outputs**
-- 🗂 **Tabbed Viewer** for easy side-by-side analysis
-- 🧼 **Reset + Refresh** for clean iteration
+- **Image Loader & Custom PyTorch Model Support**
+- **Layer-wise CAM Selection** (Grad-CAM, Layer-CAM)
+- **Manual & Semi-auto Bounding Box Tool**
+- **LIME Visualizations** (positive/negative features)
+- **Save & Export Visual Outputs**
+- **Tabbed Viewer** for easy side-by-side analysis
+- **Reset + Refresh** for clean iteration
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - PyTorch
 - PyQt5
@@ -42,7 +42,7 @@ It’s built to help users understand and debug deep learning predictions—visu
 
 ---
 
-## 🧪 Example Use Cases
+## Example Use Cases
 
 - Compare model saliency vs. ground truth regions
 - Add interpretability to your PyTorch models
@@ -51,7 +51,7 @@ It’s built to help users understand and debug deep learning predictions—visu
 
 ---
 
-## 🧠 Learn Explainability (XAI)
+## Learn Explainability (XAI)
 
 If you're new to Explainable AI (XAI) and want to learn more about:
 - 💡 What is **CAM**?
@@ -59,27 +59,26 @@ If you're new to Explainable AI (XAI) and want to learn more about:
 - 💡 When to use each method?
 
 Read our detailed XAI Concept Report:  
-👉 [**XAI Report**](docs/XAI_Report.pdf)
+-> [**XAI Report**](docs/XAI_Report.pdf)
 
 ---
 
-## 📎 Documentation
+## Documentation
 
-📘 Full User Manual available:  
-👉 [**Read PDF**](docs/PeliCAM.pdf)
+Full User Manual available:  
+-> [**Read PDF**](docs/PeliCAM.pdf)
 
 ---
 
-## 🙌 Authors
+## Authors
 
-Made with ❤️ by:
-
+Made by:
 - **Murali**
 - **Sreenath**
 
 ---
 
-## ⭐ Support
+## Support Us
 
 If you like this project, star it ⭐ and share it with your friends!  
-Let us know how you use PeliCAM! 😊
+Let us know how you use PeliCAM!
