@@ -2,7 +2,7 @@
 
 [![View PDF Manual](https://img.shields.io/badge/📄_PDF-Manual-blue?style=flat-square)](docs/PeliCAM.pdf)
 [![View XAI Report](https://img.shields.io/badge/📑_XAI_Report-orange?style=flat-square)](docs/XAI_Report.pdf)
-[![Stars](https://img.shields.io/github/stars/yourusername/pelicam?style=social)](https://github.com/SreenathKarthick11/PeliCAM)
+[![Download](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)](https://github.com/SreenathKarthick11/PeliCAM/releases/download/v1.0/PeliCAM.exe)
 
 > **PeliCAM** – A deep learning model explanation toolkit built with PyQt  
 > Created by **Murali** and **Sreenath**
@@ -67,6 +67,13 @@ Read our detailed XAI Concept Report:
 
 Full User Manual available:  
 -> [**Read PDF**](docs/PeliCAM.pdf)
+
+---
+
+## 🚀 Download
+
+Download Version v1.0
+-> [**Download**](https://github.com/SreenathKarthick11/PeliCAM/releases/download/v1.0/PeliCAM.exe).
 
 ---
 
