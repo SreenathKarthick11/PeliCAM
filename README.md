@@ -14,9 +14,9 @@
 
 **PeliCAM** is a desktop application for **visualizing model interpretability**.  
 It supports techniques like:
-- ✅ CAM (Class Activation Maps)
-- ✅ LIME (Local Interpretable Model-agnostic Explanations)
-- ✅ Bounding box annotations
+-  CAM (Class Activation Maps)
+-  LIME (Local Interpretable Model-agnostic Explanations)
+-  Bounding box annotations
 
 It’s built to help users understand and debug deep learning predictions—visually and interactively.
 
@@ -54,9 +54,9 @@ It’s built to help users understand and debug deep learning predictions—visu
 ## Learn Explainability (XAI)
 
 If you're new to Explainable AI (XAI) and want to learn more about:
-- 💡 What is **CAM**?
-- 💡 What is **LIME**, **SHAP**, and how they work?
-- 💡 When to use each method?
+-  What is **CAM**?
+-  What is **LIME**, **SHAP**, and how they work?
+-  When to use each method?
 
 Read our detailed XAI Concept Report:  
 -> [**XAI Report**](docs/XAI_Report.pdf)
@@ -70,20 +70,12 @@ Full User Manual available:
 
 ---
 
-## 🚀 Download
+##  Download
 
 Download Version v1.0
 -> [**Download**](https://github.com/SreenathKarthick11/PeliCAM/releases/download/v1.0/PeliCAM.exe).
 Download Version v1.1
 -> [**Download**](https://github.com/SreenathKarthick11/PeliCAM/releases/download/v1.1/PeliCAM.exe).
-
----
-
-## Authors
-
-Made by:
-- **Murali**
-- **Sreenath**
 
 ---
 
